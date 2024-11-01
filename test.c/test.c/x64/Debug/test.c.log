@@ -1,0 +1,2 @@
+﻿  test.c
+LINK : fatal error LNK1168: 无法打开 D:\c++\test.c\x64\Debug\yuan.c.exe 进行写入

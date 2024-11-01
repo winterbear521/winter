@@ -1,0 +1,4 @@
+﻿  test.c
+D:\c++\test.c\test.c\test.c(21,3): warning C4013: “PlayerMove”未定义；假设外部返回 int
+D:\c++\test.c\test.c\test.c(32,3): warning C4013: “ComputerMove”未定义；假设外部返回 int
+  test.c.vcxproj -> D:\c++\test.c\Debug\yuan.c.exe
