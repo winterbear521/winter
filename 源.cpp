@@ -38,6 +38,7 @@ void menu()
 
 int main()
 {
+
     srand((unsigned int)time(NULL));
     int input = 0;
     do
